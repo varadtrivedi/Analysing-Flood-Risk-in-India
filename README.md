@@ -58,7 +58,7 @@ Example of in-text citation:
 - Varad Trivedi: trivedi.varad20@gmail.com
 - Divya Gautam – divyagautam06@gmail.com 
 
-## 📄 License
+##  License
 
 This project is for academic use. Please cite the original paper if used in derivative works.
 
